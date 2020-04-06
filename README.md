@@ -8,4 +8,4 @@
 ## To do
 - For black sholes: other options that could be priced
 - Implement modules for other models & pricing methods: stochastic volatility, Monte-carlo...
-- Implied volatility related functionalities: construct vol surface from prices, e.t.c.
+- Implied volatility related functionalities: construct vol surface from prices, etc.
